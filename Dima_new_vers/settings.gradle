@@ -1,0 +1,6 @@
+rootProject.name = 'Dima_new_vers'
+include 'deserialize'
+include 'generator'
+include 'model'
+include 'serialize'
+
